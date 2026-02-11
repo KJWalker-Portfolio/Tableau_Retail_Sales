@@ -1,4 +1,4 @@
-# Tableau_Retail_Sales
+# Tableau Retail Sales
 
 This Repo contains the link to the Tableau workbook containing an example Retail Sales Dashboard.
 
